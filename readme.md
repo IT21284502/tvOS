@@ -27,9 +27,9 @@ Player Screen
 Shows current song name
 Playback controls:
 Play
-⏸ Pause
-⏭ Next
-⏮ Previous
+Pause
+Next
+Previous
 Repeat toggle
 Progress bar that updates in real-time
 Back button to return to playlist
