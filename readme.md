@@ -1,40 +1,88 @@
-TV Music Player — tvOS Application
-```
-A simple, clean, and functional music player built for tvOS.
-This app showcases playlist navigation, audio playback, and smooth tvOS focus-based interactions using SwiftUI.
-```
-verview
-```
-TV Music Player is a lightweight prototype music player designed for tvOS.
-It allows users to:
-Browse a playlist of audio files
-Select a song to play
-Control playback using Play, Pause, Next, and Previous
-View playback progress with a progress bar
-Toggle Repeat mode
-Navigate using the Apple TV remote or keyboard arrow keys
-Return to the playlist screen at any time
-The app prioritizes simplicity, smooth navigation, and clarity of UI — making it ideal for demonstrations, assignments, or beginner-level tvOS projects.
-```
+TV Music Player — Simple Project Report
+1. Introduction
 
-Features
-```
-Playlist Screen
+This project is a minimal tvOS music player application built using SwiftUI.
+The goal was to create a clean, functional, and easy-to-navigate media player suitable for demonstrations, academic assignments, or beginner-level tvOS development.
+
+2. Project Overview
+
+TV Music Player is a lightweight prototype that focuses on clear UI, smooth navigation, and basic audio playback.
+Users can browse a playlist, select a track, control playback, and return to the playlist at any time.
+
+Core Capabilities
+
+Browse a playlist of audio files
+
+Select a song to start playback
+
+Play, Pause, Next, and Previous controls
+
+Real-time progress bar
+
+Repeat mode toggle
+
+tvOS focus-based navigation (Apple TV remote or keyboard)
+
+3. Features
+3.1 Playlist Screen
+
 Displays all available audio tracks
-Uses tvOS-native focus navigation
-Selecting a track opens the Player screen
-Player Screen
+
+Uses native tvOS focus navigation
+
+Selecting a track transitions to the Player screen
+
+3.2 Player Screen
+
 Shows current song name
+
 Playback controls:
+
 Play
+
 Pause
+
 Next
+
 Previous
+
 Repeat toggle
-Progress bar that updates in real-time
+
+Real-time progress bar
+
 Back button to return to playlist
-Audio Handling
+
+3.3 Audio Engine
+
 Built using AVAudioPlayer
-Real-time progress tracking with Timer
-Smooth state synchronization between UI and audio engine
-```
+
+Timer-based progress tracking
+
+Smooth synchronization between UI and audio state
+
+4. Technology Stack
+
+Platform: tvOS
+
+Frameworks: SwiftUI, AVFoundation
+
+Language: Swift
+
+Navigation: tvOS focus system
+
+Audio: AVAudioPlayer for playback
+
+5. Purpose of the App
+
+Demonstrate basic tvOS UI interactions
+
+Teach focus-based navigation
+
+Provide a simple template for media apps
+
+Serve as an assignment-friendly sample project
+
+6. Conclusion
+
+The TV Music Player app delivers a smooth, intuitive tvOS experience using minimal code.
+Its clean design and functional audio controls make it ideal for learning, experimenting, or presenting a basic tvOS application.
