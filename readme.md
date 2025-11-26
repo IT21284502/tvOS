@@ -75,13 +75,3 @@ This project is designed for:
 The goal is to provide a clean, understandable foundation that can be extended into a more complex media application.
 
 ---
-
-## How to Run the Project
-
-1. Open the project in Xcode (version compatible with tvOS target).
-2. Select the Apple TV simulator or a physical device.
-3. Build and run the project.
-4. Use the remote (or arrow keys) to navigate and control playback.
-
----
-
