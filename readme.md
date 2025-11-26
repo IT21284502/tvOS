@@ -85,11 +85,3 @@ The goal is to provide a clean, understandable foundation that can be extended i
 
 ---
 
-## Future Improvements (Optional Ideas)
-- Support for playlists loaded from external files
-- UI animations for transitions and focus changes
-- Album artwork display
-- Shuffle mode
-- Background audio support
-- Integration with MediaPlayer framework
-
