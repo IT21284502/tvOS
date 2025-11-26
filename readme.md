@@ -1,5 +1,5 @@
 TV Music Player — Simple Project Report
-1. Introduction
+#1. Introduction
 
 This project is a minimal tvOS music player application built using SwiftUI.
 The goal was to create a clean, functional, and easy-to-navigate media player suitable for demonstrations, academic assignments, or beginner-level tvOS development.
