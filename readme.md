@@ -1,10 +1,9 @@
-# 🎵 TV Music Player — tvOS Application
+TV Music Player — tvOS Application
 ```
 A simple, clean, and functional music player built for tvOS.
 This app showcases playlist navigation, audio playback, and smooth tvOS focus-based interactions using SwiftUI.
 ```
-
-# 📌 Overview
+verview
 ```
 TV Music Player is a lightweight prototype music player designed for tvOS.
 It allows users to:
@@ -18,7 +17,7 @@ Return to the playlist screen at any time
 The app prioritizes simplicity, smooth navigation, and clarity of UI — making it ideal for demonstrations, assignments, or beginner-level tvOS projects.
 ```
 
-# ✨ Features
+Features
 ```
 Playlist Screen
 Displays all available audio tracks
@@ -27,7 +26,7 @@ Selecting a track opens the Player screen
 Player Screen
 Shows current song name
 Playback controls:
-▶️ Play
+Play
 ⏸ Pause
 ⏭ Next
 ⏮ Previous
